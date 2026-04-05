@@ -18,8 +18,6 @@ define('WP_DEBUG', true);
 
 Această setare ne asigură vizibilitate maximă în cazul apariției conflictelor de securitate.
 
-![Afișarea editării wp-config.php și adăugarea directivei WP_DEBUG, vizualizată în editorul de cod](images/image%20copy%203.png)
-
 
 ### Pasul 2. Gestionarea rolurilor și politicilor de parole stricte
 
