@@ -27,8 +27,6 @@ Am navigat în panoul de administrare la secțiunea **Users (Utilizatori) -> Add
 
 Confirmarea completă a înregistrării s-a materializat odată ce acest utlizator Autor a fost generat și a apărut prezentat distinct în lista unificată de administrare. 
 
-![Lista de utilizatori, din care reiese clar stabilirea contului separat Autor definit via email distinct](images/image%20copy.png)
-
 
 ### Pasul 3. Mentenanța și actualizările sistemului (Core, Teme și Pluginuri)
 
